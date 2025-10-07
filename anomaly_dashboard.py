@@ -15,8 +15,7 @@ Includes:
 - View-selected image in a separate process with optional YOLO overlay
 - CSV export (with file dialog)
 
-Author: Tayyab Rehman
-"""
+Author: XXX
 
 import os
 import sys
